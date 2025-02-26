@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace dotnetapp.Models {
-    public class Response {
+     public class Response {
         public int StatusCode { get; set; }
         public string StatusMessage { get; set; }
                 
